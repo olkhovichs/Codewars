@@ -9,4 +9,5 @@ ____
 | Create Phone Number | [click](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/create_phone_number.py) |
 | Convert PascalCase string into snake_case | [click](https://www.codewars.com/kata/529b418d533b76924600085d) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/convert_case_string.py) |
 | Your order, please | [click](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/your_order.py) |
+| Split Strings | [click](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/split_strings.py) |
 
