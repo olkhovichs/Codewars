@@ -5,7 +5,7 @@ ____
 | Kata(taks) name | Codewars link | Solution link |
 |--------------------------------------------|:---------------:|:----------------:|
 | Your order, please | [click](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/your_order.py) |
-| Split Strings | [click](https://www.codewars.com/kata/525c65e51bf619685c000059/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/cakes.py) |
+| Pete, the baker | [click](https://www.codewars.com/kata/525c65e51bf619685c000059/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/cakes.py) |
 | Split Strings | [click](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/split_strings.py) |
 | Stop gninnipS My sdroW! | [click](https://www.codewars.com/kata/5264d2b162488dc400000001/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/stop_spinning_words.py) |
 | Find The Parity Outlier | [click](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/find_parity_outlier.py) |
