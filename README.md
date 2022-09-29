@@ -6,6 +6,7 @@ ____
 |--------------------------------------------|:---------------:|:----------------:|
 | Your order, please | [click](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/your_order.py) |
 | Pete, the baker | [click](https://www.codewars.com/kata/525c65e51bf619685c000059/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/cakes.py) |
+| RGB to Hex Conversion | [click](https://www.codewars.com/kata/513e08acc600c94f01000001/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/rgb_to_hex.py) |
 | Split Strings | [click](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/split_strings.py) |
 | Sort the odd | [click](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/sort_odd.py) |
 | Stop gninnipS My sdroW! | [click](https://www.codewars.com/kata/5264d2b162488dc400000001/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/stop_spinning_words.py) |
