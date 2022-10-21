@@ -2,7 +2,7 @@
 ____
 [Link](https://www.codewars.com/users/olkhovich) to my account
 ____
-| Kata(taks) name | Codewars link | Solution link |
+| Kata(task) name | Codewars link | Solution link |
 |--------------------------------------------|:---------------:|:----------------:|
 | Your order, please | [click](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/your_order.py) |
 | Pete, the baker | [click](https://www.codewars.com/kata/525c65e51bf619685c000059/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/cakes.py) |
