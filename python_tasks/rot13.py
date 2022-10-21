@@ -12,9 +12,3 @@ def rot13(message):
         else:
             res += i
     return res
-
-
-
-
-
-print(rot13('gnMzDNuye'))
