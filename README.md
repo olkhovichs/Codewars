@@ -11,6 +11,7 @@ ____
 | Split Strings | [click](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/split_strings.py) |
 | First non-repeating character | [click](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/first_non-rep_char.py) |
 | Who likes it? | [click](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/who_likes.py) |
+| Persistent Bugger. | [click](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/persistent_bugger.py) |
 | Sort the odd | [click](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/sort_odd.py) |
 | Stop gninnipS My sdroW! | [click](https://www.codewars.com/kata/5264d2b162488dc400000001/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/stop_spinning_words.py) |
 | Find The Parity Outlier | [click](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/find_parity_outlier.py) |
