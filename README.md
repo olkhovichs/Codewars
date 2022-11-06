@@ -8,6 +8,7 @@ ____
 | Pete, the baker | [click](https://www.codewars.com/kata/525c65e51bf619685c000059/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/cakes.py) |
 | RGB to Hex Conversion | [click](https://www.codewars.com/kata/513e08acc600c94f01000001/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/rgb_to_hex.py) |
 | Rot13 | [click](https://www.codewars.com/kata/530e15517bc88ac656000716/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/rot13.py) |
+| String incrementer | [click](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/str_incr.py) |
 | Split Strings | [click](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/split_strings.py) |
 | Maximum subarray sum | [click](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/max_subarr_sum.py) |
 | First non-repeating character | [click](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/first_non-rep_char.py) |
