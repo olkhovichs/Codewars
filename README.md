@@ -15,6 +15,7 @@ ____
 | Who likes it? | [click](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/who_likes.py) |
 | Persistent Bugger. | [click](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/persistent_bugger.py) |
 | Sort the odd | [click](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/sort_odd.py) |
+| Luck check | [click](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/luck_tick.py) |
 | Stop gninnipS My sdroW! | [click](https://www.codewars.com/kata/5264d2b162488dc400000001/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/stop_spinning_words.py) |
 | Find The Parity Outlier | [click](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/find_parity_outlier.py) |
 | Moving Zeros To The End | [click](https://www.codewars.com/kata/52597aa56021e91c93000cb0/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/your_order.py) |
