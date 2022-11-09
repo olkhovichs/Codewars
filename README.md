@@ -15,6 +15,7 @@ ____
 | Split Strings | [click](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/split_strings.py) |
 | Your order, please | [click](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/your_order.py) |
 | Persistent Bugger. | [click](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/persistent_bugger.py) |
+| Greed is Good | [click](https://www.codewars.com/kata/5270d0d18625160ada0000e4/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/greed_good.py) |
 | Sort the odd | [click](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/sort_odd.py) |
 | Least Common Multiple | [click](https://www.codewars.com/kata/5259acb16021e9d8a60010af/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/lcm.py) |
 | Stop gninnipS My sdroW! | [click](https://www.codewars.com/kata/5264d2b162488dc400000001/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/stop_spinning_words.py) |
