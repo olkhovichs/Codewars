@@ -19,6 +19,7 @@ ____
 | The Hashtag Generator | [click](https://www.codewars.com/kata/52449b062fb80683ec000024/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/hashtag_generator.py) |
 | Sort the odd | [click](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/sort_odd.py) |
 | Least Common Multiple | [click](https://www.codewars.com/kata/5259acb16021e9d8a60010af/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/lcm.py) |
+| count '9's from 1 to n | [click](https://www.codewars.com/kata/55143152820d22cdf00001bb/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/count_9.py) |
 | Stop gninnipS My sdroW! | [click](https://www.codewars.com/kata/5264d2b162488dc400000001/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/stop_spinning_words.py) |
 | Find The Parity Outlier | [click](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/find_parity_outlier.py) |
 | Moving Zeros To The End | [click](https://www.codewars.com/kata/52597aa56021e91c93000cb0/python) | [click](https://github.com/olkhovichs/Codewars/blob/main/python_tasks/your_order.py) |
